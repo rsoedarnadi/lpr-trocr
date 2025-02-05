@@ -35,14 +35,6 @@ Our approach leveraged **transfer learning** on a **Transformer-based OCR archit
 ```
 ├── data/                 # Dataset files
 ├── src/                  # Source code for preprocessing, training, and evaluation
-├── submission/           # Trained models and checkpoints  
+├── submission/           # Prediction results and submission file  
 └── README.md             # Project description  
 ```
-
-
-## Acknowledgments  
-Special thanks to the competition organizers and the open-source community for providing the tools and datasets that made this project possible.  
-
----
-
-Let me know if you want to add sections like **Future Work**, **Dataset Details**, or any badges for Python, TensorFlow, or F1 score!
